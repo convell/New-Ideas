@@ -1,4 +1,4 @@
-d# New-Ideas
+# New-Ideas
 Learning how to learn
 
 Code/Computer Ideas
